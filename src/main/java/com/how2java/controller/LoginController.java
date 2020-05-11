@@ -10,6 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+//分支1拉,1add,1commit
+
 @Controller
 @RequestMapping("")
 public class LoginController {
